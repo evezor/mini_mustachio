@@ -1,4 +1,4 @@
-19839361211129123
+20011202836136418
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -7903,6 +7903,13 @@ connector cf
 54
 50
 Connector_Card
+Conn_uSDcard
+
+
+0
+13
+10
+Connector_Card
 SD_Kyocera_145638009211859+
 SD Card Connector, Normal Type, Outer Tail, Without Ejector (https://global.kyocera.com/prdct/electro/product/pdf/5638.pdf)
 sd card smt
@@ -13720,6 +13727,13 @@ SIM Card with Detect Switch
 18
 9
 Connector_JST
+CONN_JST_XH_4_VERTICAL
+
+
+0
+6
+5
+Connector_JST
 JST_ACH_BM01B-ACHSS-A-GAN-ETF_1x01-1MP_P1.20mm_Vertical
 JST ACH series connector, BM01B-ACHSS-A-GAN-ETF (http://www.jst-mfg.com/product/pdf/eng/eACH.pdf), generated with kicad-footprint-generator
 connector JST ACH vertical
@@ -15651,6 +15665,13 @@ connector JST SUR top entry
 0
 24
 23
+Connector_JST
+JST_VH_2_VERTICAL
+
+
+0
+4
+3
 Connector_JST
 JST_VH_B2P-VH-B_1x02_P3.96mm_Vertical
 JST VH PBT series connector, B2P-VH-B (http://www.jst-mfg.com/product/pdf/eng/eVH.pdf), generated with kicad-footprint-generator
@@ -51260,6 +51281,20 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
+Drawing
+backside
+
+
+0
+0
+0
+Drawing
+mustache
+
+
+0
+0
+0
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -58155,6 +58190,13 @@ mounting hole 8.4mm m8
 0
 9
 1
+MountingHole
+drilled_0_3
+
+
+0
+0
+0
 Mounting_Wuerth
 Mounting_Wuerth_WA-SMSE-ExternalM3_H5mm_9771050360
 Mounting Hardware, external M3, height 5, Wuerth electronics 9771050360 (https://katalog.we-online.com/em/datasheet/9771050360.pdf), generated with kicad-footprint-generator
@@ -84545,17 +84587,3 @@ varistor SIOV
 0
 2
 2
-evezor_uncategorized
-QR_READER_YJD600
-
-
-0
-0
-0
-evezor_uncategorized
-REGULATOR_VOLTAGE_811-2622-ND
-
-
-0
-5
-5
